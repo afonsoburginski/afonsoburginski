@@ -1,6 +1,9 @@
 ## Olá! eu sou Afonso Burginski
 <!-- Apresentação -->
 
+Atualmente estou cursando Engenharia de Software - Unicesumar.
+Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre em busca de novos desafios
+
 - 👾 Hoje trabalho com Desenvolvimento Front-end
 - 🚀 Estudando tecnologias como: React Native e API RESTFULL
 - 📚 Em busca da primeira oportunidade
