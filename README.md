@@ -2,7 +2,7 @@
 <!-- Apresentação -->
 
 Atualmente estou cursando Engenharia de Software - Unicesumar<br>
-Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre em busca de novos desafios
+Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre procurando por novos desafios
 
 <br>
 
