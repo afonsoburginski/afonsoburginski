@@ -8,7 +8,7 @@ Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre a
 
 - 👾 Hoje trabalho com Desenvolvimento Front-end
 - 🚀 Estudando tecnologias como: React Native e API RESTFULL
-- 📚 Em busca da primeira oportunidade
+- 📚 Desenvolvedor Web na [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
 
 
 <div align="center">
