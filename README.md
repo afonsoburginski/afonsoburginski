@@ -1,7 +1,7 @@
 ## Olá! eu sou Afonso Burginski
 <!-- Apresentação -->
 
-Atualmente estou cursando Engenharia de Software - Unicesumar<br>
+Atualmente estou cursando Engenharia de Software - Centro Universitário Unicesumar<br>
 Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre aberto à desafios
 
 <br>
