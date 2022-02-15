@@ -6,9 +6,9 @@ Estou em busca de densenvolvimento profissional no setor de tecnologia, sempre a
 
 <br>
 
-- 👾 Hoje trabalho com Desenvolvimento Front-end
-- 🚀 Estudando tecnologias como: React Native e API RESTFULL
-- 📚 Desenvolvedor Web na [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
+- 👾 Hoje trabalho com Front-End
+- 🚀 Estudando tecnologias como: Flutter, Firebase e API Restfull
+- 📚 Desenvolvedor Front-End na [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
 
 
 <div align="center">
