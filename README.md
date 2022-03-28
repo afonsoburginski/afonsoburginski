@@ -1,14 +1,14 @@
-## Olá! eu sou Afonso Burginski
+## Hello World! I'am Afonso Burginski
 <!-- Apresentação -->
 
-Atualmente estou cursando Engenharia de Software - Centro Universitário Unicesumar<br>
-Estou em busca de densenvolvimento profissional no setor de desenvolvimento mobile, sempre em busca de novos desafios!
+I am currently studying Software Engineering - Unicesumar University Center<br>
+I am looking for professional development in the mobile development sector, always looking for new challenges!
 
 <br>
 
-- 👾 Hoje trabalho com Front-End
-- 🚀 Estudando tecnologias como: Flutter, Firebase e API Restfull
-- 📚 Desenvolvedor Front-End na [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
+- Today I work as a Frontend Engineer
+- Focus on technologies like: Flutter, Firebase and Restfull API
+- 📚 Frontend Engineer on [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
 
 
 <div align="start">
