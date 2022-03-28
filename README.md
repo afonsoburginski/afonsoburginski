@@ -1,4 +1,4 @@
-## Hello World! I'am Afonso Burginski
+## Hello World! I'm Afonso Burginski
 <!-- Apresentação -->
 
 I am currently studying Software Engineering - Unicesumar University Center<br>
