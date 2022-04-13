@@ -7,7 +7,7 @@ I am looking for professional development in the mobile development sector, alwa
 <br>
 
 - Today I work as a Frontend Engineer
-- Focus on technologies like: Flutter, Firebase and Restfull API
+- Focus on technologies like: Flutter, Kotlin, Firebase and Restfull API
 - Frontend Engineer on [TopSapp Gestão de provedores](https://www.topsapp.com.br/)
 
 
