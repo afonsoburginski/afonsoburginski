@@ -29,6 +29,7 @@ I am looking for professional development in the mobile development sector, alwa
   
 [![Linkedin Badge](https://img.shields.io/badge/-Afonso%20Burginski-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonso-kevin-burginski-76aa05175)](https://www.linkedin.com/in/Afonso Burginski) 
 [![Gmail Badge](https://img.shields.io/badge/-burginskikevin@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:burginskikevin@gmail.com)](mailto:burginskikevin@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eugiovannasouza@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eugiovannasouza@gmail.com)](mailto:eugiovannasouza@gmail.com)
 [![Site Badge](https://img.shields.io/badge/-afonso.dev-6633cc?style=flat-square&logo=react&logoColor=white&labelColor=6633cc&link=https://afonsodev.com)](https://afonsodev.com)
 [![Instagram Badge](https://img.shields.io/badge/-@kevin_burginski-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/kevin_burginski)](https://www.instagram.com/kevin_burginski)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafonsoburginski&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=true)](https://hits.seeyoufarm.com)
