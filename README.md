@@ -17,8 +17,8 @@ I am looking for professional development in the mobile development sector, alwa
 
 <div align="start">
   <a href="https://github.com/afonsoburginski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afonsoburginski&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoburginski&layout=compact&langs_count=7&theme=nord"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=afonsoburginski&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonsoburginski&layout=compact&langs_count=7&midnight-purple"/>
 </div><br>
   
 ## My Skills
@@ -30,11 +30,4 @@ I am looking for professional development in the mobile development sector, alwa
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-          
-
-          
- 
-  
-  ![Snake animation](https://raw.githubusercontent.com/devjosecarlosteles/devjosecarlosteles/output/github-contribution-grid-snake.svg)
- 
 </div>
