@@ -1,13 +1,14 @@
 ## Hello World! I'm Afonso Burginski
 <!-- Apresentação -->
 
-I am graduated in Software Engineering - Unicesumar University Center
+Graduated in Software Engineering from Unicesumar University Center.
 <br/>
-I am a Frontend Engeneer specialist, with 4+ years of experience.
+I am a seasoned Frontend Engineer with over 4 years of hands-on experience.
 <br/>
-I'm specializing in the mobile development sector with React Native. 
-<br/>
-Always looking for new challenges!
+Specialized in the dynamic field of mobile development, particularly focused on React Native.
+
+Always eager to take on new challenges and stay ahead in the ever-evolving landscape of technology.
+Feel free to customize it further based on yo
 
 <br>
 
