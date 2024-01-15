@@ -3,9 +3,9 @@
 
 Graduated in Software Engineering from Unicesumar University.
 <br/>
-I am a seasoned Frontend Engineer with over 4 years of hands-on experience.
+I am a seasoned Frontend Engineer with 4+ years of real experience.
 <br/>
-Specialized in the dynamic field of mobile development, particularly focused on React Native.
+Specialized in Frontend Development, particularly focused on React Native.
 
 Always eager to take on new challenges and stay ahead in the ever-evolving landscape of technology.
 Feel free to customize it further based on yo
