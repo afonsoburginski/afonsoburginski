@@ -1,13 +1,18 @@
 ## Hello World! I'm Afonso Burginski
 <!-- Apresentação -->
 
-I am currently studying Software Engineering - Unicesumar University Center<br>
-I am looking for professional development in the mobile development sector, always looking for new challenges!
+I am graduated in Software Engineering - Unicesumar University Center
+<br/>
+I am a Frontend Engeneer specialist, with 4+ years of experience.
+<br/>
+I'm specializing in the mobile development sector with React Native. 
+<br/>
+Always looking for new challenges!
 
 <br>
 
 - Today I work as a Frontend Engineer
-- Focus on technologies like: javaScript, TypeScript, NextJS, Firebase and Restfull API
+- Focus on technologies like: Typescript, React Native, Nextjs, Express.js, Node.js 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Afonso%20Burginski-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsoburginski)](https://www.linkedin.com/in/afonsoburginski) 
 [![Gmail Badge](https://img.shields.io/badge/-burginskikevin@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:burginskikevin@gmail.com)](mailto:burginskikevin@gmail.com)
