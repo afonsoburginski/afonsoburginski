@@ -7,9 +7,6 @@
 
 The challenge moves me!
 
-
-Feel free to customize it further based on you
-
 <br>
 
 - Today I work as a Frontend Engineer
