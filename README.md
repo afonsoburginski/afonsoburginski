@@ -18,7 +18,8 @@ Always looking for new challenges!
 [![Gmail Badge](https://img.shields.io/badge/-afonsoburginski@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonsoburginski@gmail.com)](mailto:afonsoburginski@gmail.com)
 [![Site Badge](https://img.shields.io/badge/-afonso.dev-6633cc?style=flat-square&logo=react&logoColor=white&labelColor=6633cc&link=https://afonsodev.com)](https://afonsodev.com)
 [![Instagram Badge](https://img.shields.io/badge/-@kevin_burginski-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/kevin_burginski)](https://www.instagram.com/kevin_burginski)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafonsoburginski%2&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafonsoburginski&count_bg=%236633CC&title_bg=%236633CC&icon=&icon_color=%23E7E7E7&title=View+profile&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafonsoburginski%2Fhit-counter&count_bg=%237ABA4A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align="start">
   <a href="https://github.com/afonsoburginski">
