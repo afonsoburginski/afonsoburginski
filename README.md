@@ -1,7 +1,7 @@
 ## Hello World! I'm Afonso Burginski
 <!-- Apresentação -->
 
-Graduated in Software Engineering from Unicesumar University Center.
+Graduated in Software Engineering from Unicesumar University.
 <br/>
 I am a seasoned Frontend Engineer with over 4 years of hands-on experience.
 <br/>
