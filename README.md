@@ -2,7 +2,7 @@
 <!-- Apresentação -->
 
 - Graduated in Software Engineering from Unicesumar University.
-- I am an experienced Frontend Developer with 4+ years of career.
+- I am an experienced Frontend Developer with 5+ years of career.
 - Currently specializing in the mobile development sector with React Native.
 
 The challenge moves me!
