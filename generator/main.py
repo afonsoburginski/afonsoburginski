@@ -68,22 +68,41 @@ def generate(args):
         stats = DEMO_STATS
         languages = DEMO_LANGUAGES
     else:
-        # Fetch GitHub data
-        api = GitHubAPI(username)
+        # Check for manual overrides in config before hitting the API
+        manual_stats = config.get("stats", {}).get("manual", {})
+        manual_languages = config.get("languages", {}).get("manual", {})
 
-        logger.info("Fetching stats...")
-        try:
-            stats = api.fetch_stats()
-        except (requests.exceptions.RequestException, ValueError, KeyError) as e:
-            logger.warning("Could not fetch stats (%s). Using defaults.", e)
-            stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+        need_api = not manual_stats or not manual_languages
+        api = GitHubAPI(username) if need_api else None
 
-        logger.info("Fetching languages...")
-        try:
-            languages = api.fetch_languages()
-        except (requests.exceptions.RequestException, ValueError, KeyError) as e:
-            logger.warning("Could not fetch languages (%s). Using defaults.", e)
-            languages = {}
+        if manual_stats:
+            logger.info("Using manual stats from config.yml (skipping GitHub API).")
+            stats = {
+                "commits": manual_stats.get("commits", 0),
+                "stars": manual_stats.get("stars", 0),
+                "prs": manual_stats.get("prs", 0),
+                "issues": manual_stats.get("issues", 0),
+                "repos": manual_stats.get("repos", 0),
+            }
+        else:
+            logger.info("Fetching stats from GitHub API...")
+            try:
+                stats = api.fetch_stats()
+            except (requests.exceptions.RequestException, ValueError, KeyError) as e:
+                logger.warning("Could not fetch stats (%s). Using zeros.", e)
+                stats = {"commits": 0, "stars": 0, "prs": 0, "issues": 0, "repos": 0}
+
+        if manual_languages:
+            logger.info("Using manual languages from config.yml (skipping GitHub API).")
+            # Accept either raw byte-counts or relative weights — all treated as weights
+            languages = {lang: int(val) for lang, val in manual_languages.items()}
+        else:
+            logger.info("Fetching languages from GitHub API...")
+            try:
+                languages = api.fetch_languages()
+            except (requests.exceptions.RequestException, ValueError, KeyError) as e:
+                logger.warning("Could not fetch languages (%s). Using empty.", e)
+                languages = {}
 
     logger.info("Stats: %s", stats)
     logger.info("Languages: %d found", len(languages))

@@ -76,6 +76,24 @@ def validate_config(config: dict) -> dict:
     # Apply theme defaults
     config["theme"] = resolve_theme(user_theme)
 
+    # Validate stats.manual if present
+    stats_cfg = config.get("stats", {})
+    manual_stats = stats_cfg.get("manual", {})
+    if manual_stats and not isinstance(manual_stats, dict):
+        raise ConfigError("'stats.manual' must be a mapping of metric names to integer values.")
+    valid_metrics = {"commits", "stars", "prs", "issues", "repos"}
+    for key in manual_stats:
+        if key not in valid_metrics:
+            raise ConfigError(f"'stats.manual.{key}' is not a recognised metric. Valid: {valid_metrics}")
+        if not isinstance(manual_stats[key], int):
+            raise ConfigError(f"'stats.manual.{key}' must be an integer.")
+
+    # Validate languages.manual if present
+    lang_cfg = config.get("languages", {})
+    manual_langs = lang_cfg.get("manual", {})
+    if manual_langs and not isinstance(manual_langs, dict):
+        raise ConfigError("'languages.manual' must be a mapping of language names to integer weights.")
+
     # Apply other defaults
     config["profile"].setdefault("tagline", "")
     config["profile"].setdefault("philosophy", "")

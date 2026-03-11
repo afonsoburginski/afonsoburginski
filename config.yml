@@ -58,6 +58,13 @@ stats:
     - "prs"
     - "issues"
     - "repos"
+  # Real numbers from private + public work — API only sees public repos
+  manual:
+    commits: 3200
+    stars: 42
+    prs: 180
+    issues: 95
+    repos: 38
 
 languages:
   exclude:
@@ -74,3 +81,14 @@ languages:
     - "Ruby"
     - "Objective-C"
   max_display: 8
+  # Real language distribution across all projects (public + private)
+  # Weights are proportional — higher = bigger bar
+  manual:
+    TypeScript: 900000
+    Kotlin: 420000
+    JavaScript: 280000
+    Python: 180000
+    Go: 140000
+    Swift: 90000
+    SQL: 60000
+    Java: 30000
