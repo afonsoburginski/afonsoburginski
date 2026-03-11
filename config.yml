@@ -1,0 +1,57 @@
+username: afonsoburginski
+
+profile:
+  name: "Afonso Burginski"
+  tagline: "Senior Mobile Engineer · React Native · Kotlin · Swift"
+  company: "afonsodev.com"
+  location: "Brazil"
+  bio: |
+    Building end-to-end mobile products — from native modules to App Store & Google Play releases.
+    6+ years delivering production apps with React Native, Kotlin and Swift.
+  philosophy: '"The challenge moves me."'
+
+social:
+  email: "afonsoburginski@gmail.com"
+  linkedin: "afonsoburginski"
+  website: "https://afonsodev.com"
+
+galaxy_arms:
+  - name: "Mobile"
+    color: "dendrite_violet"
+    items:
+      - "React Native"
+      - "Kotlin"
+      - "Swift"
+  - name: "Backend & Web"
+    color: "synapse_cyan"
+    items:
+      - "Next.js"
+      - "Supabase"
+      - "PostgreSQL"
+  - name: "Tooling"
+    color: "axon_amber"
+    items:
+      - "EAS Build"
+      - "Fastlane"
+      - "Docker"
+
+projects:
+  - repo: "afonsoburginski/nextjs-ffmpeg-transcoder"
+    arm: 1
+    description: "HLS video ingestion pipeline with Go server, GPU-accelerated FFmpeg/NVENC transcoding and Cloudflare R2 storage."
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
