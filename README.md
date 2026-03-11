@@ -1,16 +1,15 @@
 ## Hello World! I'm Afonso Burginski
 <!-- Apresentação -->
 
-- Graduated in Software Engineering from Unicesumar University.
-- I am an experienced Frontend Developer with 5+ years of career.
-- Currently specializing in the mobile development sector with React Native.
+- Senior Mobile Engineer with 6+ years delivering apps to the App Store & Google Play.
+- Building end-to-end mobile products with React Native, Kotlin & Swift.
 
 The challenge moves me!
 
 <br>
 
-- Today I work as a Frontend Engineer
-- Focus on technologies like: Typescript, React Native, Nextjs, Express.js, Node.js 
+- Today I work as a Senior Mobile Engineer & Full Stack Developer
+- Focus on technologies like: React Native, Kotlin, Swift, Typescript, Next.js, Supabase
 
 [![Linkedin Badge](https://img.shields.io/badge/-Afonso%20Burginski-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afonsoburginski)](https://www.linkedin.com/in/afonsoburginski) 
 [![Gmail Badge](https://img.shields.io/badge/-afonsoburginski@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afonsoburginski@gmail.com)](mailto:afonsoburginski@gmail.com)
@@ -29,7 +28,11 @@ The challenge moves me!
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
 </div>
