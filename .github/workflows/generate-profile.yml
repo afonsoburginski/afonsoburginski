@@ -1,0 +1,39 @@
+name: Generate Profile SVGs
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  push:
+    paths:
+      - "config.yml"
+      - "generator/**"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate and commit SVGs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate SVGs
+        run: python -m generator.main
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+
+      - name: Commit updated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update profile SVGs [skip ci]"
+          file_pattern: "assets/generated/*.svg"

@@ -27,8 +27,10 @@
 
 <br/>
 
-Building end-to-end mobile products — from native modules to App Store & Google Play releases.
-6+ years delivering production apps with React Native, Kotlin and Swift.
+Building end-to-end products — from native mobile apps to scalable web platforms and video pipelines.
+6+ years shipping production apps with React Native, Next.js, Kotlin and Go.
+
+Notable systems: **[Stormz+](https://www.stormzplus.com)** (full-stack VoD streaming, web + mobile), **[EasyDriver](https://play.google.com/store/apps/details?id=com.easyrider.rider_app)** (ride-hailing platform), **[Orça Norte](https://www.orcanorte.com.br)** (B2B quotes marketplace) and **[GEM Jhonrob](https://gem.jhonrob.com.br)** (enterprise ERP with Kanban + real-time collaboration).
 
 **Currently at** afonsodev.com — Brazil (Remote)
 

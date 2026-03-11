@@ -2,12 +2,12 @@ username: afonsoburginski
 
 profile:
   name: "Afonso Burginski"
-  tagline: "Senior Mobile Engineer · React Native · Kotlin · Swift"
+  tagline: "Full Stack & Mobile Engineer · React Native · Next.js · Kotlin"
   company: "afonsodev.com"
   location: "Brazil"
   bio: |
-    Building end-to-end mobile products — from native modules to App Store & Google Play releases.
-    6+ years delivering production apps with React Native, Kotlin and Swift.
+    Building end-to-end products — from native mobile apps to scalable web platforms and video pipelines.
+    6+ years shipping production apps with React Native, Next.js, Kotlin and Go.
   philosophy: '"The challenge moves me."'
 
 social:
@@ -20,25 +20,36 @@ galaxy_arms:
     color: "dendrite_violet"
     items:
       - "React Native"
+      - "Expo"
       - "Kotlin"
       - "Swift"
-  - name: "Backend & Web"
+  - name: "Full Stack"
     color: "synapse_cyan"
     items:
       - "Next.js"
+      - "TypeScript"
       - "Supabase"
       - "PostgreSQL"
-  - name: "Tooling"
+      - "Drizzle ORM"
+  - name: "Infra & Tooling"
     color: "axon_amber"
     items:
-      - "EAS Build"
-      - "Fastlane"
+      - "Go"
+      - "FFmpeg / NVENC"
+      - "Cloudflare R2"
       - "Docker"
+      - "EAS Build"
 
 projects:
-  - repo: "afonsoburginski/nextjs-ffmpeg-transcoder"
+  - repo: "afonsoburginski/stormzplus"
     arm: 1
-    description: "HLS video ingestion pipeline with Go server, GPU-accelerated FFmpeg/NVENC transcoding and Cloudflare R2 storage."
+    description: "Full-stack VoD streaming platform (web + mobile). Netflix-style UX with HLS on Cloudflare R2, Stripe subscriptions, and a GPU-accelerated FFmpeg pipeline."
+  - repo: "afonsoburginski/stormzplus-mobile"
+    arm: 0
+    description: "React Native / Expo app for Stormz+. Multi-profile, offline downloads, native HLS player, i18n (PT/EN), iOS & Android — published to both stores."
+  - repo: "afonsoburginski/nextjs-ffmpeg-transcoder"
+    arm: 2
+    description: "HLS video ingestion service in Go with GPU-accelerated FFmpeg/NVENC transcoding and Cloudflare R2 storage."
 
 stats:
   metrics:
@@ -52,6 +63,14 @@ languages:
   exclude:
     - "HTML"
     - "CSS"
+    - "SCSS"
     - "Shell"
     - "Makefile"
+    - "Dockerfile"
+    - "CMake"
+    - "C++"
+    - "C"
+    - "Dart"
+    - "Ruby"
+    - "Objective-C"
   max_display: 8

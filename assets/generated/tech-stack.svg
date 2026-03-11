@@ -16,38 +16,38 @@
 
     <g transform="translate(30, 65)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">TypeScript</text>
-      <rect x="110" y="-6" width="171.6" height="12" rx="3" fill="#3178c6" opacity="0.85">
-        <animate attributeName="width" from="0" to="171.6" dur="0.8s" begin="0.0s" fill="freeze"/>
+      <rect x="110" y="-6" width="167.0" height="12" rx="3" fill="#3178c6" opacity="0.85">
+        <animate attributeName="width" from="0" to="167.0" dur="0.8s" begin="0.0s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">85.8%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">83.5%</text>
     </g>
     <g transform="translate(30, 87)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">JavaScript</text>
-      <rect x="110" y="-6" width="9.6" height="12" rx="3" fill="#f1e05a" opacity="0.85">
-        <animate attributeName="width" from="0" to="9.6" dur="0.8s" begin="0.1s" fill="freeze"/>
+      <rect x="110" y="-6" width="9.4" height="12" rx="3" fill="#f1e05a" opacity="0.85">
+        <animate attributeName="width" from="0" to="9.4" dur="0.8s" begin="0.1s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">4.8%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">4.7%</text>
     </g>
     <g transform="translate(30, 109)">
-      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Dart</text>
-      <rect x="110" y="-6" width="6.800000000000001" height="12" rx="3" fill="#00B4AB" opacity="0.85">
-        <animate attributeName="width" from="0" to="6.800000000000001" dur="0.8s" begin="0.2s" fill="freeze"/>
+      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Python</text>
+      <rect x="110" y="-6" width="7.6" height="12" rx="3" fill="#3572A5" opacity="0.85">
+        <animate attributeName="width" from="0" to="7.6" dur="0.8s" begin="0.2s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">3.4%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">3.8%</text>
     </g>
     <g transform="translate(30, 131)">
-      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">SCSS</text>
-      <rect x="110" y="-6" width="6.800000000000001" height="12" rx="3" fill="#c6538c" opacity="0.85">
-        <animate attributeName="width" from="0" to="6.800000000000001" dur="0.8s" begin="0.30000000000000004s" fill="freeze"/>
+      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Dart</text>
+      <rect x="110" y="-6" width="6.6000000000000005" height="12" rx="3" fill="#00B4AB" opacity="0.85">
+        <animate attributeName="width" from="0" to="6.6000000000000005" dur="0.8s" begin="0.30000000000000004s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">3.4%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">3.3%</text>
     </g>
     <g transform="translate(30, 153)">
-      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">Python</text>
-      <rect x="110" y="-6" width="4" height="12" rx="3" fill="#3572A5" opacity="0.85">
-        <animate attributeName="width" from="0" to="4" dur="0.8s" begin="0.4s" fill="freeze"/>
+      <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">SCSS</text>
+      <rect x="110" y="-6" width="6.6000000000000005" height="12" rx="3" fill="#c6538c" opacity="0.85">
+        <animate attributeName="width" from="0" to="6.6000000000000005" dur="0.8s" begin="0.4s" fill="freeze"/>
       </rect>
-      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">1.1%</text>
+      <text x="320" y="0" fill="#64748b" font-size="10" font-family="monospace" dominant-baseline="middle">3.3%</text>
     </g>
     <g transform="translate(30, 175)">
       <text x="0" y="0" fill="#94a3b8" font-size="11" font-family="sans-serif" dominant-baseline="middle">C++</text>
@@ -94,36 +94,51 @@
       <animateTransform attributeName="transform" type="rotate" from="0 637 140" to="360 637 140" dur="8s" repeatCount="indefinite"/>
     </g>
     <text x="708.9" y="98.5" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Mobile</text>
-    <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(3)</text>
-    <text x="637.0" y="223.0" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Backend &amp; Web</text>
-    <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(3)</text>
-    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">Tooling</text>
-    <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(3)</text>
+    <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(4)</text>
+    <text x="637.0" y="223.0" fill="#00d4ff" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Full Stack</text>
+    <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(5)</text>
+    <text x="565.1" y="98.5" fill="#ffb020" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">Infra &amp; Tooling</text>
+    <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(5)</text>
     <circle cx="641.6" cy="116.4" r="3" fill="#a78bfa" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.94s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="671.6" cy="120.0" r="3" fill="#a78bfa" opacity="0.35">
-      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="1.03s" repeatCount="indefinite"/>
+    <circle cx="664.6" cy="111.1" r="3" fill="#a78bfa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="0.67s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="689.9" cy="158.2" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="691.4" cy="126.8" r="3" fill="#a78bfa" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="1.40s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="659.7" cy="147.8" r="3" fill="#a78bfa" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="2.12s" repeatCount="indefinite"/>
     </circle>
     <circle cx="655.1" cy="155.7" r="3" fill="#00d4ff" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="2.61s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="637.0" cy="180.0" r="3" fill="#00d4ff" opacity="0.35">
+    <circle cx="653.6" cy="176.4" r="3" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="3.16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="637.0" cy="196.0" r="3" fill="#00d4ff" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="3.70s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="594.7" cy="176.7" r="3" fill="#00d4ff" opacity="0.35">
+    <circle cx="627.0" cy="161.8" r="3" fill="#00d4ff" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="4.24s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="606.8" cy="166.2" r="3" fill="#00d4ff" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="4.79s" repeatCount="indefinite"/>
     </circle>
     <circle cx="614.3" cy="147.8" r="3" fill="#ffb020" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="5.28s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="602.4" cy="120.0" r="3" fill="#ffb020" opacity="0.35">
+    <circle cx="597.2" cy="136.2" r="3" fill="#ffb020" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="5.82s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="588.5" cy="112.0" r="3" fill="#ffb020" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="6.37s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="626.3" cy="85.0" r="3" fill="#ffb020" opacity="0.35">
+    <circle cx="623.1" cy="120.5" r="3" fill="#ffb020" opacity="0.35">
+      <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="6.91s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="629.4" cy="100.7" r="3" fill="#ffb020" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.46s" repeatCount="indefinite"/>
     </circle>
 </svg>
