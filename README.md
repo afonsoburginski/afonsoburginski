@@ -1,12 +1,3 @@
-# galaxy-profile
-
-![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9+-brightgreen.svg)
-
-A dynamic GitHub profile README generator that creates animated SVG banners with a space/galaxy theme. Your GitHub stats, tech stack, and featured projects are rendered as a living galaxy.
-
-## Preview
-
 <div align="center">
   <img src="./assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
 </div>
