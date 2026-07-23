@@ -306,26 +306,26 @@
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.0999999999999996s" repeatCount="indefinite"/>
     </circle>
     <line x1="652.5" y1="156.0" x2="670.5" y2="156.1" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="670.5" y="159.1" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">PostgreSQL</text>
-    <text x="670.5" y="159.1" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">PostgreSQL</text>
+    <text x="670.5" y="159.1" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Kafka</text>
+    <text x="670.5" y="159.1" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Kafka</text>
     <circle cx="623.9" cy="202.4" r="2.5" fill="#00d4ff" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
     <line x1="623.9" y1="202.4" x2="641.5" y2="206.6" stroke="#00d4ff" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="641.5" y="209.6" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">Kafka</text>
-    <text x="641.5" y="209.6" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">Kafka</text>
+    <text x="641.5" y="209.6" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">PostgreSQL</text>
+    <text x="641.5" y="209.6" text-anchor="start" fill="#00d4ff" font-size="9" font-family="monospace" opacity="0.85">PostgreSQL</text>
     <circle cx="514.5" cy="150.8" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <line x1="514.5" y1="150.8" x2="532.5" y2="149.9" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="532.5" y="152.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">FFmpeg / NVENC</text>
-    <text x="532.5" y="152.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">FFmpeg / NVENC</text>
+    <text x="532.5" y="152.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">WebRTC / LL-HLS</text>
+    <text x="532.5" y="152.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">WebRTC / LL-HLS</text>
     <circle cx="541.3" cy="173.1" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="0.7s" repeatCount="indefinite"/>
     </circle>
     <line x1="541.3" y1="173.1" x2="559.1" y2="175.9" stroke="#ffb020" stroke-width="0.5" opacity="0.25" stroke-dasharray="2 2"/>
-    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">WebRTC / LL-HLS</text>
-    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">WebRTC / LL-HLS</text>
+    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.2" filter="url(#label-glow)">FFmpeg / NVENC</text>
+    <text x="559.1" y="178.9" text-anchor="start" fill="#ffb020" font-size="9" font-family="monospace" opacity="0.85">FFmpeg / NVENC</text>
     <circle cx="475.7" cy="199.3" r="2.5" fill="#ffb020" opacity="0.85">
       <animate attributeName="opacity" values="0.85;1;0.85" dur="5s" begin="1.4s" repeatCount="indefinite"/>
     </circle>
