@@ -2,12 +2,12 @@ username: afonsoburginski
 
 profile:
   name: "Afonso Burginski"
-  tagline: "Full Stack & Mobile Engineer · React Native · Next.js · Kotlin"
-  company: "afonsodev.com"
+  tagline: "Senior Software Engineer · Video Streaming · Distributed Systems · Mobile"
+  company: "Atman Systems"
   location: "Brazil"
   bio: |
-    Building end-to-end products — from native mobile apps to scalable web platforms and video pipelines.
-    6+ years shipping production apps with React Native, Next.js, Kotlin and Go.
+    Senior engineer on a large-scale smart-city video platform — owning streaming (WebRTC / LL-HLS), microservices and CI/CD.
+    7 years shipping production systems with NestJS, Next.js, React Native and Go. Founder of Stormz+.
   philosophy: '"The challenge moves me."'
 
 social:
@@ -26,19 +26,19 @@ galaxy_arms:
   - name: "Full Stack"
     color: "synapse_cyan"
     items:
+      - "NestJS"
       - "Next.js"
       - "TypeScript"
-      - "Supabase"
       - "PostgreSQL"
-      - "Drizzle ORM"
-  - name: "Infra & Tooling"
+      - "Kafka"
+  - name: "Infra & Streaming"
     color: "axon_amber"
     items:
-      - "Go"
       - "FFmpeg / NVENC"
-      - "Cloudflare R2"
+      - "WebRTC / LL-HLS"
+      - "Kubernetes"
       - "Docker"
-      - "EAS Build"
+      - "Go"
 
 projects:
   - repo: "afonsoburginski/stormzplus"
