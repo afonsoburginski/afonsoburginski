@@ -3,7 +3,6 @@ username: afonsoburginski
 profile:
   name: "Afonso Burginski"
   tagline: "Senior Software Engineer · Video Streaming · Distributed Systems · Mobile"
-  company: "Atman Systems"
   location: "Brazil"
   bio: |
     Senior engineer on a large-scale smart-city video platform — owning streaming (WebRTC / LL-HLS), microservices and CI/CD.
@@ -58,9 +57,6 @@ stats:
     - "prs"
     - "issues"
     - "repos"
-  # All-time commits aggregated from all years (2020–2026), including private org contributions
-  # PRs count via contributionsCollection (includes private) — 2026 alone: 124 + previous years
-  # Repos: 27 public owned + ~11 private/org = 38 total
   manual:
     commits: 5045
     stars: 42
@@ -83,7 +79,6 @@ languages:
     - "Ruby"
     - "Objective-C"
   max_display: 8
-  # Weights reflect real distribution across all projects (public + private, incl. attlas-2026 NestJS/Angular)
   manual:
     TypeScript: 1400000
     Kotlin: 420000
