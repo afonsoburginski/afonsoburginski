@@ -2,7 +2,7 @@
 
 ### Afonso Burginski
 
-**Senior Software Engineer** &nbsp;·&nbsp; Atman Systems &nbsp;·&nbsp; Video Streaming & Distributed Systems &nbsp;·&nbsp; Founder of Stormz+
+**Senior Software Engineer** &nbsp;·&nbsp; Video Streaming & Distributed Systems &nbsp;·&nbsp; Founder of Stormz+
 
 7 years &nbsp;|&nbsp; NestJS · React Native · WebRTC/LL-HLS · Kubernetes &nbsp;|&nbsp; Brazil
 
