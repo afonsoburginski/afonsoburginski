@@ -29,13 +29,13 @@ galaxy_arms:
       - "NestJS"
       - "Next.js"
       - "TypeScript"
-      - "PostgreSQL"
       - "Kafka"
+      - "PostgreSQL"
   - name: "Infra & Streaming"
     color: "axon_amber"
     items:
-      - "FFmpeg / NVENC"
       - "WebRTC / LL-HLS"
+      - "FFmpeg / NVENC"
       - "Kubernetes"
       - "Docker"
       - "Go"
@@ -58,12 +58,14 @@ stats:
     - "prs"
     - "issues"
     - "repos"
-  # Real numbers from private + public work — API only sees public repos
+  # All-time commits aggregated from all years (2020–2026), including private org contributions
+  # PRs count via contributionsCollection (includes private) — 2026 alone: 124 + previous years
+  # Repos: 27 public owned + ~11 private/org = 38 total
   manual:
-    commits: 3200
+    commits: 5045
     stars: 42
-    prs: 180
-    issues: 95
+    prs: 125
+    issues: 12
     repos: 38
 
 languages:
@@ -81,14 +83,13 @@ languages:
     - "Ruby"
     - "Objective-C"
   max_display: 8
-  # Real language distribution across all projects (public + private)
-  # Weights are proportional — higher = bigger bar
+  # Weights reflect real distribution across all projects (public + private, incl. attlas-2026 NestJS/Angular)
   manual:
-    TypeScript: 900000
+    TypeScript: 1400000
     Kotlin: 420000
     JavaScript: 280000
     Python: 180000
     Go: 140000
     Swift: 90000
-    SQL: 60000
+    SQL: 80000
     Java: 30000
