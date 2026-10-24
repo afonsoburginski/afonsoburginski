@@ -2,12 +2,12 @@ username: afonsoburginski
 
 profile:
   name: "Afonso Burginski"
-  tagline: "Senior Software Engineer · Video Streaming · Distributed Systems · Mobile"
+  tagline: "Senior Software Engineer · Video Streaming & Real-Time Media · Distributed Systems & Platform Engineering"
   location: "Brazil"
   bio: |
-    Senior engineer on a large-scale smart-city video platform — owning streaming (WebRTC / LL-HLS), microservices and CI/CD.
-    7 years shipping production systems with NestJS, Next.js, React Native and Go. Founder of Stormz+.
-  philosophy: '"The challenge moves me."'
+    Designing, building and operating software end to end — from low-latency media pipelines to the platforms that deploy them.
+    7+ years across backend, infrastructure, web and mobile.
+  philosophy: '"Engineering real-time media and distributed platforms — from architecture to production."'
 
 social:
   email: "afonsoburginski@gmail.com"
@@ -15,40 +15,39 @@ social:
   website: "https://afonsodev.com"
 
 galaxy_arms:
-  - name: "Mobile"
+  - name: "Platform & Delivery"
     color: "dendrite_violet"
     items:
-      - "React Native"
-      - "Expo"
-      - "Kotlin"
-      - "Swift"
-  - name: "Full Stack"
+      - "Kubernetes"
+      - "Docker"
+      - "Argo CD / GitOps"
+      - "CI/CD"
+  - name: "Distributed Systems"
     color: "synapse_cyan"
     items:
       - "NestJS"
-      - "Next.js"
       - "TypeScript"
       - "Kafka"
       - "PostgreSQL"
-  - name: "Infra & Streaming"
+      - "Redis / BullMQ"
+  - name: "Media & Streaming"
     color: "axon_amber"
     items:
-      - "WebRTC / LL-HLS"
-      - "FFmpeg / NVENC"
-      - "Kubernetes"
-      - "Docker"
-      - "Go"
+      - "WebRTC"
+      - "HLS / LL-HLS"
+      - "FFmpeg"
+      - "ABR"
 
 projects:
-  - repo: "afonsoburginski/stormzplus"
-    arm: 1
-    description: "Full-stack VoD streaming platform (web + mobile). Netflix-style UX with HLS on Cloudflare R2, Stripe subscriptions, and a GPU-accelerated FFmpeg pipeline."
-  - repo: "afonsoburginski/stormzplus-mobile"
+  - repo: "afonsoburginski/stormz-plus"
+    arm: 2
+    description: "Video streaming & media pipeline: ingestion, transcoding, adaptive playback, storage and distribution."
+  - repo: "afonsoburginski/orbit"
     arm: 0
-    description: "React Native / Expo app for Stormz+. Multi-profile, offline downloads, native HLS player, i18n (PT/EN), iOS & Android — published to both stores."
+    description: "Developer platform for CI/CD and Kubernetes / Docker Swarm delivery, focused on reliable deployments and operability."
   - repo: "afonsoburginski/nextjs-ffmpeg-transcoder"
     arm: 2
-    description: "HLS video ingestion service in Go with GPU-accelerated FFmpeg/NVENC transcoding and Cloudflare R2 storage."
+    description: "Open source study case: HLS ingestion, FFmpeg transcoding and Cloudflare R2 delivery."
 
 stats:
   metrics:
@@ -58,11 +57,11 @@ stats:
     - "issues"
     - "repos"
   manual:
-    commits: 5045
-    stars: 42
-    prs: 125
-    issues: 12
-    repos: 38
+    commits: 4742
+    stars: 7
+    prs: 573
+    issues: 14
+    repos: 40
 
 languages:
   exclude:
@@ -78,13 +77,12 @@ languages:
     - "Dart"
     - "Ruby"
     - "Objective-C"
+    - "Go"
+    - "Rust"
   max_display: 8
   manual:
-    TypeScript: 1400000
-    Kotlin: 420000
-    JavaScript: 280000
-    Python: 180000
-    Go: 140000
-    Swift: 90000
-    SQL: 80000
-    Java: 30000
+    TypeScript: 22669682
+    JavaScript: 365038
+    Kotlin: 234254
+    SQL: 148627
+    Python: 145699
