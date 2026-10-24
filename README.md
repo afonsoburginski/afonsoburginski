@@ -1,4 +1,4 @@
-# Afonso Burginski
+<p align="center"><img src="assets/banner.svg" alt="Afonso Burginski — Senior Software Engineer" width="100%"/></p>
 
 **Senior Software Engineer** — Video Streaming & Real-Time Media · Distributed Systems · Platform Engineering
 
